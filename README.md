@@ -5,7 +5,10 @@ I am currently employed as a developer in Netcompany NO where I work with projec
 Skills: Java, Kotlin, SpringBoot, Python, Software development, Scrum, agile development, Kanban, Intellij, Kubernetes, Bash, RPA
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakonbockman)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakonbockman)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+
+
 
 <!--
 **hakonbockman/hakonbockman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
