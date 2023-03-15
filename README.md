@@ -6,7 +6,7 @@ Skills: Java, Kotlin, SpringBoot, Python, Software development, Scrum, agile dev
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakonbockman)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakonbockman)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=radical)
 
 
 
